@@ -1,3 +1,3 @@
 export function someLogic() {
-  return "some logic";
+  return "some logic 2";
 }
